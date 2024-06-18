@@ -18,6 +18,7 @@ public class Main {
         char[] testList = {'{','}','{','{','}','}'};
 
         System.out.println(controlCorchetes(testList));
+
     }
 
     /*
